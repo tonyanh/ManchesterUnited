@@ -377,13 +377,8 @@ opacity: 0.5;
     font-size: 18px;
     display:inline-block;
 }
-.ti-location-pin,
-.ti-email {
-  margin-right: 10px;
-}
-.ti-mobile {
-  margin-right: 5px;
-}
+
+
 .trunganh {
   margin-bottom: 15px;
 }
